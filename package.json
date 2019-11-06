@@ -1,0 +1,25 @@
+{
+  "name": "full-screen",
+  "version": "1.0.0",
+  "description": "Browser compatible Fullscreen API in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestbud/full-screen.git"
+  },
+  "keywords": [
+    "fullscreen",
+    "javascript",
+    "browser",
+    "compatible"
+  ],
+  "author": "bestbud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestbud/full-screen/issues"
+  },
+  "homepage": "https://github.com/bestbud/full-screen#readme"
+}
